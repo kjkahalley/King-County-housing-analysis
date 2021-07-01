@@ -8,13 +8,13 @@
 
 ## Overview
 
-This project's focus was directed towards offering Empire Home Remodeling (EHR) insight into King County, Washington's housing market in terms of the most beneficial addition for remodeling homes. The project observed one table of housing information containing a total collection of 21,597 houses and 21 columns, these columns were then consolidated to two separate models based on the house locations within King County [rural and urban]. The model for urban King County focused on relating price to house square footage, grade (quality rating), waterfront (view of the water), whether each house had a basement or not, and the ratio of bathrooms to bedrooms. The model for rural focused on relating price to house square footage, grade, whether each house had a basement or not. This analysis can be useful to provide Empire Home Remodeling with renovation proposals that would yield the most profitable returns.
+This project's focus was directed towards offering Empire Home Remodeling (EHR) insight into King County, Washington's housing market in terms of the most beneficial addition for remodeling homes. The project observed one table of housing information containing a total collection of 21,597 houses and 21 columns, these columns were then consolidated to two separate models based on the house locations within King County [rural and urban]. The model for urban King County focused on relating price to house square footage, grade (quality rating), waterfront (view of the water), and whether each house had a basement or not. The model for rural focused on relating price to house square footage, grade, whether each house had a basement or not. This analysis can be useful to provide Empire Home Remodeling with renovation proposals that would yield the most profitable returns.
 
 ---
 
 ## Business Problem
 
-EHR may benefit from directing their funding, in urban King County, towards adding a basement, increasing house square footage, increasing grade, obtain waterfront view if the view was previously obstructed, add a basement, and ensure a low ratio of bathrooms to bedrooms. In rural King County, EHR may benefit from increasing house square footage, and increasing grade.
+EHR may benefit from directing their funding, in urban King County, towards adding a basement, increasing house square footage, increasing grade, and obtain waterfront view if the view was previously obstructed. In rural King County, EHR may benefit from increasing house square footage, and improving grade.
 
 ---
 
@@ -71,11 +71,9 @@ For Urban King County:
 
 * increasing house square footage
 
-* increasing grade
+* improving grade
 
-* obtain waterfront view if view was previously obstructed 
-
-* ensure a low ratio of bathrooms to bedrooms
+* obtaining waterfront view if view was previously obstructed 
 
 ---
 
@@ -83,26 +81,23 @@ For Rural King County:
 
 * increasing house square footage
 
-* increasing grade
-
+* improving grade
 
 
 ---
 
 ## Next Steps
 
+Further analysis could offer more in-depth predictions to:
 
-Further analysis could offer more in-depth predictions to 
+* Further explore the ratio of bathrooms to bedrooms and their relationship to price  
 
-* Insight to suggested budget based off film length 
-
-* A descriptive analysis of particularly undesired outcomes based on films that have failed in the industry.
+* Inpect the interactions between the independent variables and the target variables(ex: how increasing square footage effects price given that it is a waterfront home and vice versa).
 
 
 ---
 
 ## For More Information
-
 
 Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
 
