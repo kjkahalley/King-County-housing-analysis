@@ -14,7 +14,7 @@ This project's focus was directed towards offering Empire Home Remodeling (EHR) 
 
 ## Business Problem
 
-EHR may benefit from directing their funding towards in urban King County, towards adding a basement, increasing house square footage, increasing grade, obtain waterfront view if view was previously obstructed, add a basement, and ensure a low ratio of bathrooms to bedrooms. In rural King County, EHR may benefit from increasing house square footage, and increasing grade.
+EHR may benefit from directing their funding, in urban King County, towards adding a basement, increasing house square footage, increasing grade, obtain waterfront view if the view was previously obstructed, add a basement, and ensure a low ratio of bathrooms to bedrooms. In rural King County, EHR may benefit from increasing house square footage, and increasing grade.
 
 ---
 
