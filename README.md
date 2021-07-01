@@ -32,39 +32,58 @@ This project uses inferential analyses to identify the relationship between the 
 
 ## Results
 
-Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
+??explaination??
 
-![?? plot](images/regression.png)
-
----
-
-The 10 Actors that appeared in 10 or more of the most profitable films tended to be in a film with a mean profit above 30 million dollars.
-
-![?? plot](images/bar_plot.png)
+![?? plot](images/??.png)
 
 ---
 
-The 20 most successful movies filtered by budget over 150 million dollars, tomatometer rating above 85, and profit above 300 million dollars had a consistent tomatometer status of Certified-Fresh.
+??explaination??
 
-![?? plot](images/20_bar_plot.png)
+
+![?? plot](images/??.png)
 
 ---
 
-The 10 actors with the highest average profit appeared in the most successful 80% of the time. 
+??explaination??
 
-![?? plot](images/pie_plot.png)
+
+![?? plot](images/??.png)
+
+---
+
+??explaination??
+
+![?? plot](images/??.png)
 
 
 ---
 
 ## Conclusions
 
+The project's analysis recommends a variety of potential home additions to increase the overall profitability of EHR's house renovations. 
 
-This analysis offers three recomendations to Microsoft Corporation to increase their success rate in film production.
+---
 
-* Produce a minimum budget for each film of least 150 million dollars and or ensure the best quality possible using budget. 
+For Urban King County:
 
-* Seek out actors who have been present in ten or more highly profitable films; the analysis provided that actors who have been present in such highly profitable films have offered a higher success rate for ongoing films.
+* adding a basement
+
+* increasing house square footage
+
+* increasing grade
+
+* obtain waterfront view if view was previously obstructed 
+
+* ensure a low ratio of bathrooms to bedrooms
+
+---
+
+For Rural King County:
+
+* increasing house square footage
+
+* increasing grade
 
 
 
@@ -73,7 +92,7 @@ This analysis offers three recomendations to Microsoft Corporation to increase t
 ## Next Steps
 
 
-Further analysis could offer more in-depth predictions to increase the likelihood of film success and profitablility
+Further analysis could offer more in-depth predictions to 
 
 * Insight to suggested budget based off film length 
 
@@ -87,7 +106,7 @@ Further analysis could offer more in-depth predictions to increase the likelihoo
 
 Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
 
-For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
+For any additional questions, please contact **Chandler O'Neal & jchandleroneal@gmail.com, Killian Kahalley & killian.kahalley@gmail.com, Griffin Riner & gnr400800@gmail.com**
 
 
 ---
