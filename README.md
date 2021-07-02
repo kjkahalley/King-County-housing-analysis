@@ -33,29 +33,43 @@ This project uses inferential analyses to identify the relationship between the 
 
 ## Results
 
-??explaination??
+Districts
 
-![?? plot](images/??.png)
-
----
-
-??explaination??
-
-
-![?? plot](images/??.png)
+![?? plot](./notebooks/exploratory/killian/Seattle_map.png)
 
 ---
 
-??explaination??
+Urban squarefoot
 
 
-![?? plot](images/??.png)
+![?? plot](./notebooks/exploratory/killian/Urban-sqft-scatterplot.png)
 
 ---
 
-??explaination??
+Urban grade
 
-![?? plot](images/??.png)
+
+![?? plot](./notebooks/exploratory/killian/Urban-grade-barplot.png)
+
+---
+
+Urban waterfront
+
+![?? plot](./notebooks/exploratory/killian/price-sqft-waterfront.png)
+
+
+---
+
+Rural square footage
+
+![?? plot](./notebooks/exploratory/killian/Rural-sqft-scatterplot.png)
+
+
+---
+
+Rural grade
+
+![?? plot](./notebooks/exploratory/killian/Rural-grade-barplot.png)
 
 
 ---
