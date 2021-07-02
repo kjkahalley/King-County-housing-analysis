@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![remodeling photo](images/cover_hammer.jpg)
 
 # Statistical Inference of House Pricing in King County, Washington
@@ -33,41 +32,42 @@ This project uses inferential analyses to identify the relationship between the 
 
 ## Results
 
-Districts
+Visual of the districts sepparating rural from urban King County, Washington in our model
 
 ![?? plot](./notebooks/exploratory/killian/Seattle_map.png)
 
 ---
 
-Urban squarefoot
+The urban squarefoot graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
 
 ![?? plot](./notebooks/exploratory/killian/Urban-sqft-scatterplot.png)
 
 ---
 
-Urban grade
+In the urban grade graph, the houses were separated by their grade. The average price the houses sold were then plotted according to their grade.
+
 
 
 ![?? plot](./notebooks/exploratory/killian/Urban-grade-barplot.png)
 
 ---
 
-Urban waterfront
+This graph was separated into 10 groups of houses according to their overall square footage. We then took those 10 groups and determined which houses had waterfront property and which did not. Once that was determined we graphed the mean price of the houses in each group and compared the homes that did have waterfront property to the houses that did not have waterfront property. 
 
 ![?? plot](./notebooks/exploratory/killian/price-sqft-waterfront.png)
 
 
 ---
 
-Rural square footage
+The rural squarefootage graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
 ![?? plot](./notebooks/exploratory/killian/Rural-sqft-scatterplot.png)
 
 
 ---
 
-Rural grade
+Rural grade also has a linear relationship with price indicating that the price increases as a result of an increase in the grade of the house.
 
 ![?? plot](./notebooks/exploratory/killian/Rural-grade-barplot.png)
 
