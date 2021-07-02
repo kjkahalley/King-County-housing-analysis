@@ -110,12 +110,11 @@ For any additional questions, please contact **Chandler O'Neal & jchandleroneal@
 
 
 ```
-├──data/zippedData                     <- The tables used for this project 
-├──images                              <- The images used 
-├──src                                 <- The table links used 
-├──.gitignore       
-├──README.md                           <- The README for project summary
-├──??.ipynb                     <- The links of the tables used for this project 
-├──??.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-└── ?presentation?.pdf           <- PDF version of project presentation
+├──data                     <- The tables used for this project 
+├──images                   <- The images used 
+├──notebooks                <- The table links used 
+├──.canvas                  <- Flatiron Link
+├──README.md                <- The README for project summary
+├──.gitignore               <- The links of the tables used for this project 
+└── ?presentation?.pdf      <- PDF version of project presentation
 ```
