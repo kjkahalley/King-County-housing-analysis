@@ -131,5 +131,5 @@ For any additional questions, please contact **Chandler O'Neal & jchandleroneal@
 ├──.canvas                  <- Flatiron Link
 ├──README.md                <- The README for project summary
 ├──.gitignore               <- The links of the tables used for this project 
-└── ?presentation?.pdf      <- PDF version of project presentation
+└── presentation.pdf        <- PDF version of project presentation
 ```
