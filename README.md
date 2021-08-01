@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 ![remodeling photo](images/cover_hammer.jpg)
 =======
+
 ![remodeling photo](images/remodeling.jpg)
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 # Statistical Inference of House Pricing in King County, Washington
 
@@ -12,57 +12,49 @@
 
 ## Overview
 
-<<<<<<< HEAD
 This project's focus was directed towards offering Empire Home Remodeling (EHR) insight into King County, Washington's housing market in terms of the most beneficial addition for remodeling homes. The project observed one table of housing information containing a total collection of 21,597 houses and 21 columns, these columns were then consolidated to two separate models based on the house locations within King County [rural and urban]. The model for urban King County focused on relating price to house square footage, grade (quality rating), waterfront (view of the water), and whether each house had a basement or not. The model for rural focused on relating price to house square footage, grade, whether each house had a basement or not. This analysis can be useful to provide Empire Home Remodeling with renovation proposals that would yield the most profitable returns.
 =======
 The focus of this project was to analyze the current film industry to offer Microsoft Corporation the best approach to compete with their competitors. The project observed 11 tables that contained information on the film industry including movie cost, rating, profit, and actor information. The tables were then consolidated to 4 tables; the four tables contained a total collection of 1,455 movies. This analysis can be useful to the Microsoft Corporation to determine the most profitable solution for allocating their funding had they decided to go into the film industry. 
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 ---
 
 ## Business Problem
 
-<<<<<<< HEAD
 EHR may benefit from directing their funding, in urban King County, towards adding a basement, increasing house square footage, increasing grade, and obtain waterfront view if the view was previously obstructed. In rural King County, EHR may benefit from increasing house square footage, and improving grade.
 =======
+
 Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industry to improve Microsoft's profitability and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget of 150 million dollars in order to produce higher quality films. 
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 ---
 
 ## Data
 
-<<<<<<< HEAD
 The given table contained housing information which included the square footage of the property and home, latitude and longitude, waterfront view, basement or no basement, and other various other house attributes as number of floors and grade. 
 =======
 The 11 tables each contained a unique ID that was associated with the movie titles. These data sets contained information about actors, movie budget, gross returns, movie rating, and other film attributes.
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 ---
 
 ## Methods
 
-<<<<<<< HEAD
 This project uses inferential analyses to identify the relationship between the data's variables (house information) and price. The inferential analyses used was the ordinary least squares linear regression model. 
 =======
 This project uses descriptive analyses, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact of budget as well as actors who have taken part in the most profitable films. 
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 ---
 
 ## Results
 
-<<<<<<< HEAD
 Visual of the districts sepparating rural from urban King County, Washington in our model
 
-![?? plot](./notebooks/exploratory/killian/Seattle_map.png)
+![seattle map](./notebooks/exploratory/killian/Seattle_map.png)
 
 ---
 
 The urban squarefoot graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
 
-![?? plot](./notebooks/exploratory/killian/Urban-sqft-scatterplot.png)
+![urban sqft scatter plot](./notebooks/exploratory/killian/Urban-sqft-scatterplot.png)
 
 ---
 
@@ -70,20 +62,20 @@ In the urban grade graph, the houses were separated by their grade. The average 
 
 
 
-![?? plot](./notebooks/exploratory/killian/Urban-grade-barplot.png)
+![urbam house grade plot](./notebooks/exploratory/killian/Urban-grade-barplot.png)
 
 ---
 
 This graph was separated into 10 groups of houses according to their overall square footage. We then took those 10 groups and determined which houses had waterfront property and which did not. Once that was determined we graphed the mean price of the houses in each group and compared the homes that did have waterfront property to the houses that did not have waterfront property. 
 
-![?? plot](./notebooks/exploratory/killian/price-sqft-waterfront.png)
+![waterfront plot](./notebooks/exploratory/killian/price-sqft-waterfront.png)
 
 
 ---
 
 The rural squarefootage graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
-![?? plot](./notebooks/exploratory/killian/Rural-sqft-scatterplot.png)
+![rural sqft plot](./notebooks/exploratory/killian/Rural-sqft-scatterplot.png)
 
 
 ---
@@ -142,6 +134,7 @@ For Rural King County:
 * increasing house square footage
 
 * improving grade
+
 =======
 
 This analysis offers three recomendations to Microsoft Corporation to increase their success rate in film production.
@@ -150,14 +143,12 @@ This analysis offers three recomendations to Microsoft Corporation to increase t
 
 * Seek out actors who have been present in ten or more highly profitable films; the analysis provided that actors who have been present in such highly profitable films have offered a higher success rate for ongoing films.
 
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 
 ---
 
 ## Next Steps
 
-<<<<<<< HEAD
 Further analysis could offer more in-depth predictions to:
 
 * Further explore the ratio of bathrooms to bedrooms and their relationship to price  
@@ -170,23 +161,20 @@ Further analysis could offer more in-depth predictions to increase the likelihoo
 * Insight to suggested budget based off film length 
 
 * A descriptive analysis of particularly undesired outcomes based on films that have failed in the industry.
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 
 ---
 
 ## For More Information
 
-<<<<<<< HEAD
+Please review our full analysis in [our Jupyter Notebook](./renovation_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
+
+
+=======
+
 Please review our full analysis in [our Jupyter Notebook](./renovation_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
 
 For any additional questions, please contact **Chandler O'Neal & jchandleroneal@gmail.com, Killian Kahalley & killian.kahalley@gmail.com, Griffin Riner & gnr400800@gmail.com**
-=======
-
-Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
-
-For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
 
 
 ---
