@@ -1,1 +1,0 @@
-# This folder should contain all image files.

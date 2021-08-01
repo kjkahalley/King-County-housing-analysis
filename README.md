@@ -47,14 +47,14 @@ This project uses descriptive analyses, such as the measure of variability for b
 
 Visual of the districts sepparating rural from urban King County, Washington in our model
 
-![seattle map](./notebooks/exploratory/killian/Seattle_map.png)
+![seattle map](./images/Seattle_map.png)
 
 ---
 
 The urban squarefoot graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
 
-![urban sqft scatter plot](./notebooks/exploratory/killian/Urban-sqft-scatterplot.png)
+![urban sqft scatter plot](./images/Urban-sqft-scatterplot.png)
 
 ---
 
@@ -62,20 +62,20 @@ In the urban grade graph, the houses were separated by their grade. The average 
 
 
 
-![urbam house grade plot](./notebooks/exploratory/killian/Urban-grade-barplot.png)
+![urbam house grade plot](./images/killian/Urban-grade-barplot.png)
 
 ---
 
 This graph was separated into 10 groups of houses according to their overall square footage. We then took those 10 groups and determined which houses had waterfront property and which did not. Once that was determined we graphed the mean price of the houses in each group and compared the homes that did have waterfront property to the houses that did not have waterfront property. 
 
-![waterfront plot](./notebooks/exploratory/killian/price-sqft-waterfront.png)
+![waterfront plot](./images/price-sqft-waterfront.png)
 
 
 ---
 
 The rural squarefootage graph displays a comparison with price. This indicates a linear relationship, meaning that they are positively correlated to one another. 
 
-![rural sqft plot](./notebooks/exploratory/killian/Rural-sqft-scatterplot.png)
+![rural sqft plot](./images/Rural-sqft-scatterplot.png)
 
 
 ---
@@ -86,33 +86,31 @@ Rural grade also has a linear relationship with price indicating that the price 
 =======
 Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
 
-![regression plot](images/regression.png)
+![regression plot](./images/regression.png)
 
 ---
 
 The 10 Actors that appeared in 10 or more of the most profitable films tended to be in a film with a mean profit above 30 million dollars.
 
-![actor bar plot](images/bar_plot.png)
+![actor bar plot](./images/bar_plot.png)
 
 ---
 
 The 20 most successful movies filtered by budget over 150 million dollars, tomatometer rating above 85, and profit above 300 million dollars had a consistent tomatometer status of Certified-Fresh.
 
-![top 20 bar plot](images/20_bar_plot.png)
+![top 20 bar plot](./images/20_bar_plot.png)
 
 ---
 
 The 10 actors with the highest average profit appeared in the most successful 80% of the time. 
 
-![pie plot](images/pie_plot.png)
->>>>>>> d338b34e38ed42c8148d9c5758cf59232858f583
+![pie plot](./images/pie_plot.png)
 
 
 ---
 
 ## Conclusions
 
-<<<<<<< HEAD
 The project's analysis recommends a variety of potential home additions to increase the overall profitability of EHR's house renovations. 
 
 ---
