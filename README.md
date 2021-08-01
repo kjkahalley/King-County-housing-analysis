@@ -3,7 +3,7 @@
 # Statistical Inference of House Pricing in King County, Washington
 
 ---
-**Authors**: Chandler O'Neal, Killian Kahalley, and Griffin Riner
+**Authors**: Killian Kahalley, Chandler O'Neal, and Griffin Riner
 ---
 
 ## Overview
@@ -116,7 +116,7 @@ Further analysis could offer more in-depth predictions to:
 
 Please review our full analysis in [our Jupyter Notebook](./renovation_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
 
-For any additional questions, please contact **Chandler O'Neal & jchandleroneal@gmail.com, Killian Kahalley & killian.kahalley@gmail.com, Griffin Riner & gnr400800@gmail.com**
+For any additional questions, please contact **Killian Kahalley & killian.kahalley@gmail.com, Chandler O'Neal & jchandleroneal@gmail.com, Griffin Riner & gnr400800@gmail.com**
 
 
 ---
